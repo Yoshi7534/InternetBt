@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InternetBt</string>
+    <string name="selecc">Selecciona el modo de operación</string>
+    <string name="modo1">Modo Servidor</string>
+    <string name="modo2">Modo Cliente</string>
+    <string name="serverActivo">Servidor Bluetooth activo</string>
+    <string name="clientActivo">Cliente Bluetooth activo</string>
+    <string name="serverEsperando">Esperando conexiones…</string>
+    <string name="BtClient">Cliente Bluetooth</string>
+    <string name="Url">Introduce URL (ej. https://example.com)</string>
+    <string name="Buscar">Buscar contenido</string>
+    <string name="conectando">Conectando...</string>
+    <string name="conectado">Conectado</string>
+    <string name="desconectado">Desconectado</string>
+    <string name="error">Error</string>
+</resources>
