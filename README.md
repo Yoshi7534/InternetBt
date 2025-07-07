@@ -137,7 +137,7 @@ adb logcat -s BT_DEBUG_SERVER BT_DEBUG_CLIENT
 - **JavaScript complejo**: Algunas funcionalidades web avanzadas pueden fallar
 - **Seguridad**: No implementa HTTPS end-to-end entre dispositivos
 
-## 🔧 Personalización
+## Personalización
 
 ### Modificar el User-Agent
 En `HttpFetcher.kt`:
@@ -210,3 +210,10 @@ Si encuentras problemas:
 2. Revisa los logs usando las etiquetas mencionadas
 3. Asegúrate de que los permisos estén concedidos
 4. Verifica que el Bluetooth esté habilitado en ambos dispositivos
+
+## Ejemplo de uso
+
+
+https://github.com/user-attachments/assets/bb77029c-c323-4f90-9bf3-1049900cb078
+
+
